@@ -1,0 +1,23 @@
+#bgclr{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(161, 212, 212));
+} 
+#tit{
+    font-family: "Sofia", sans-serif;
+    text-shadow: 5px 5px 5px #ababab;
+    }
+#ab{
+    padding: 60px 40px 50px 40px;
+    background: rgba(50,50,50,0.8);
+    border-radius: 50px;
+    text-align: center;
+    color: rgb(230, 220, 218);
+}
+#ad{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+span{
+    color: red;
+}
